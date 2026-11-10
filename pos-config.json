@@ -1,0 +1,11 @@
+{
+    "payload": {
+        "schema": 1,
+        "serial": 1,
+        "release": {
+            "latest_version": "2.0.0"
+        },
+        "issued_at": "2026-11-10T21:41:51Z"
+    },
+    "signature": "awEfBtor+0I6lKA/rpc67xERFoH6Ssik4pXkf1L0G8qYdChPYg4AwHKYlYpJEyzFVJylJ1pruNTPVukPJ55dBA=="
+}
