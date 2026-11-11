@@ -22,7 +22,7 @@
 
 On the release page, under **Assets**, click **`Sylloo-POS-x.x.x-setup.exe`**.
 
-Current version: **2.0.0** ([direct download](https://github.com/rishadblack/desktop-pos-releases/releases/download/v2.0.0/Sylloo-POS-2.0.0-setup.exe), 138 MB).
+Current version: **2.0.1** ([direct download](https://github.com/rishadblack/desktop-pos-releases/releases/download/v2.0.1/Sylloo-POS-2.0.1-setup.exe), 161 MB).
 
 ## Requirements
 
