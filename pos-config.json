@@ -1,30 +1,30 @@
 {
     "payload": {
         "schema": 1,
-        "serial": 3,
+        "serial": 4,
         "erp": {
-            "base_url": "https://sylloo.eu",
+            "base_url": "https://sylloo.app",
             "image_hosts": [
-                "sylloo.eu",
+                "sylloo.app",
                 "sylloo.dev",
-                "sylloo.com"
+                "sylloo.eu"
             ]
         },
         "reverb": {
-            "host": "ws.sylloo.eu",
+            "host": "ws.sylloo.app",
             "port": 443,
             "scheme": "https",
             "key": "0qehkktbzq9knfhcxcar"
         },
         "release": {
-            "latest_version": "2.0.1",
+            "latest_version": "2.0.2",
             "minimum_version": "2.0.0"
         },
         "notice": {
             "message": "",
             "level": "info"
         },
-        "issued_at": "2026-11-11T07:08:06Z"
+        "issued_at": "2026-11-14T19:56:56Z"
     },
-    "signature": "iFb2gWMfp8DsRKWkWXsu58Zhvo+jIvzvVfyYK6PXosMwo4Foqm6TOWOoNUtAbkbNELj4Q34WbP5Q4qL9hrP6AA=="
+    "signature": "/A+e3SPAr0IL6XnM80rek3E4HEA9zh2dUM8M+WWPbYTp+NxeVUA8SMuKTrThFASV5XUoF8go+0uOOq30uEfCCQ=="
 }

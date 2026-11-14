@@ -22,7 +22,7 @@
 
 On the release page, under **Assets**, click **`Sylloo-POS-x.x.x-setup.exe`**.
 
-Current version: **2.0.1** ([direct download](https://github.com/rishadblack/desktop-pos-releases/releases/download/v2.0.1/Sylloo-POS-2.0.1-setup.exe), 161 MB).
+Current version: **2.0.2** ([direct download](https://github.com/rishadblack/desktop-pos-releases/releases/download/v2.0.2/Sylloo-POS-2.0.2-setup.exe), 161 MB).
 
 ## Requirements
 
@@ -86,7 +86,9 @@ Open **Settings → Apps → Installed apps**, find **Sylloo POS**, and click **
 
 ## Support
 
-For activation, accounts or other help, contact Sylloo support through [sylloo.com](https://sylloo.com).
+For activation, accounts or other help, contact Sylloo support through [sylloo.eu](https://sylloo.eu).
+
+Sylloo POS is made by Sylloo System Ltd, Finland.
 
 ## All versions
 
