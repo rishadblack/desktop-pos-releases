@@ -1,7 +1,7 @@
 {
     "payload": {
         "schema": 1,
-        "serial": 5,
+        "serial": 6,
         "erp": {
             "base_url": "https://sylloo.app",
             "image_hosts": [
@@ -14,7 +14,7 @@
             "host": "ws.sylloo.app",
             "port": 443,
             "scheme": "https",
-            "key": "0qehkktbzq9knfhcxcar"
+            "key": "dioGhvCjZveRSZYzRyRL8jvwJxWSYQo1"
         },
         "release": {
             "latest_version": "2.0.3",
@@ -24,7 +24,7 @@
             "message": "",
             "level": "info"
         },
-        "issued_at": "2026-11-14T21:52:36Z"
+        "issued_at": "2026-11-15T01:19:05Z"
     },
-    "signature": "M3XtzKehUCpLNBx/M2l4pDXL+YBwSd5pPwsWdR04CI5gDtUV5JFjRzZ+swRvFuOPEEf6Qupnb6G0pdKmig2ICg=="
+    "signature": "fZJDzP5BAYPNwIfhi1c8bt6EVUtUo96LRo318zJ/g8m/R7y9tT1izwRLxLGRZJSvCUhtlne3sRtQdE1dCyFuCg=="
 }
