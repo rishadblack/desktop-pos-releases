@@ -1,7 +1,7 @@
 {
     "payload": {
         "schema": 1,
-        "serial": 8,
+        "serial": 9,
         "erp": {
             "base_url": "https://sylloo.app",
             "image_hosts": [
@@ -17,14 +17,14 @@
             "key": "dioGhvCjZveRSZYzRyRL8jvwJxWSYQo1"
         },
         "release": {
-            "latest_version": "2.0.5",
+            "latest_version": "2.1.1",
             "minimum_version": "2.0.0"
         },
         "notice": {
             "message": "",
             "level": "info"
         },
-        "issued_at": "2026-11-15T17:49:56Z"
+        "issued_at": "2026-11-18T17:09:37Z"
     },
-    "signature": "o8IQLIXX5U8hQdMugHDrSNKwLFJaLhXsvRxQSfu2Z2Uoy3RL5LTy3mnL3DVnWEpW+YmYByI6ddtzNJFqaiWZCw=="
+    "signature": "nNU4UXuxYVk8KbSpviNyybgo/qntE5TVGPh8mMDH8uYLEVswVv7W7GeeYh9PVDiH94cxPBFDNa1rMt8HmeQxCg=="
 }
