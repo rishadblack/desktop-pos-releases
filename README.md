@@ -24,6 +24,10 @@ On the release page, under **Assets**, click **`Sylloo-POS-x.x.x-setup.exe`**.
 
 Current version: **2.1.1** ([direct download](https://github.com/rishadblack/desktop-pos-releases/releases/download/v2.1.1/Sylloo-POS-2.1.1-setup.exe), 161 MB).
 
+### Android till
+
+For an Android phone or tablet (Android 8.0 and newer): [sylloo-pos.apk](https://github.com/rishadblack/desktop-pos-releases/releases/latest/download/sylloo-pos.apk) (0.1.1, 43 MB). Open it on the device; Android asks once to allow installing apps from your browser or files app. Sylloo POS is not on Google Play.
+
 ## Requirements
 
 - Windows 10 or Windows 11, 64-bit
